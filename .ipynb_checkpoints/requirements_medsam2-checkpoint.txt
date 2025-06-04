@@ -1,0 +1,6 @@
+torch 
+torchvision
+gradio==3.38.0
+numpy==1.26.3 
+ffmpeg-python 
+moviepy
