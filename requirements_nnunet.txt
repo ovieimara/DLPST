@@ -1,0 +1,4 @@
+git+https://github.com/FabianIsensee/hiddenlayer.git@master#egg=hiddenlayer
+torch 
+torchvision
+nnunetv2

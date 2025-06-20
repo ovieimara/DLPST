@@ -1,0 +1,27 @@
+MedSAM2/
+nnUNet/
+space/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+*.env/
+env/
+medsam2_env/
+monai_env/
+nnunet_env/
+
+# Ignore large data folders
+nnUNet_raw/
+output/
+
+# Ignore any backup or temporary files
+*~
+*.bak
+.DS_Store
