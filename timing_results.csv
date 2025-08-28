@@ -1,0 +1,4 @@
+step,total_wall_time_seconds,total_processing_time_seconds,time_per_case_seconds,preprocessing_time_seconds,prediction_time_seconds,postprocessing_time_seconds,num_cases,timestamp,exit_code
+2d_inference,2.778856932,,,,,,64,2025-08-27 10:59:01,2
+3d_fullres_inference,2.760790067,,,,,,64,2025-08-27 10:59:18,2
+ensemble,37.731406044,37.731406044,.58955321943750000000,,,,64,2025-08-27 11:00:09,0
